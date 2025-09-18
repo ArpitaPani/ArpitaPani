@@ -10,7 +10,7 @@ I'm a final-year B.Tech student specializing in Computer Engineering, with a dee
 - 💻 **Software & Automation Projects:** Building bots and automation tools that streamline workflows, such as [GoogleDocBot](https://github.com/ArpitaPani/GoogleDocBot) and [YoutubeBot](https://github.com/ArpitaPani/YoutubeBot).
 - 📊 **AI & Machine Learning:** Developing and deploying smart algorithms for data analysis, prediction, and automation. My [StressAnalysis](https://github.com/ArpitaPani/StressAnalysis) project reflects my drive to use ML for impactful, real-world use cases.
 - 🌱 **Continuous Learning:** Always expanding my skills in AI, ML, GenAI, and data science, and actively participating in hackathons and research projects.
-- 🌐 **Web Development (Secondary):** Experienced in web technologies and frontend development—explore my [GitHub Repositories](https://github.com/ArpitaPani) for more.
+- 🌐 **Web Development (Secondary):** Experienced in web technologies and frontend development—explore my [GitHub Repositories](https://github.com/ArpitaPani?tab=repositories) for more.
 
 ---
 
